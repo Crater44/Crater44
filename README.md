@@ -1,4 +1,4 @@
-<h2>Stack</h2>
+<h2>Some of my actual stack</h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
