@@ -40,3 +40,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=crater44&show_icons=true&theme=vision-friendly-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crater44&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h2>Note:</h2>
+
+I use github to publish recreative/public code. If you want to see my real work send me a DM.
