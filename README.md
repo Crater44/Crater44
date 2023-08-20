@@ -44,4 +44,4 @@
 
 <h2>Note:</h2>
 
-**I use github to publish recreative/public code. If you want to see my real work send me a DM.**
+**I use github to publish recreative/public code**
